@@ -11,6 +11,29 @@ Seja bem-vindo !!! O __GitCompleto__ é um espaço dedicado à documentação e 
   - 
 ## Início do vídeo
 
+
+## Estrutura de pastas do projeto
+
+
+[Guia de Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+<div style="text-align: center;">
+
+  | Nome da pasta | Descrição |
+  |---|---|
+  | assets | Armazena recursos estáticos como imagens, CSS e JavaScript. |
+  | bin | Armazena os arquivos executáveis do projeto. |
+  | build | Armazena os arquivos compilados do projeto. |
+  | config | Armazena arquivos de configuração do projeto. |
+  | data | Armazena dados usados pelo projeto. |
+  | docs | Armazena a documentação do projeto. |
+  | lib | Armazena bibliotecas de terceiros usadas pelo projeto. |
+  | logs | Armazena os logs do projeto. |
+  | src | Armazena o código-fonte do projeto. |
+  | temp | Armazena arquivos temporários do projeto. |
+
+</div> 
+
 Oie gente sejam bem vindos a mais um vídeo aqui do canal, eu sou a Rafaella Ballerini e hoje eu vou mostrar pra vocês como utilizamos o GIT na prática
 
 No [vídeo anterior](https://www.youtube.com/watch?v=DqTITcMq68k) eu expliquei os conceitos de alguns termos técnicos que utilizamos quando estamos usando o git, então [nesse vídeo](https://www.youtube.com/watch?v=UBAX-13g8OM) vou mostrar na prática como isso acontece.

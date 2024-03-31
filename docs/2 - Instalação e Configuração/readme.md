@@ -38,7 +38,7 @@ Para instalar o Git no Ubuntu e distribuições baseadas em Debian, como o Debia
 
 3. **Verifique a instalação:**
    ```bash
-   git
+   git --version
    ```
 
 ### CentOS e Fedora
