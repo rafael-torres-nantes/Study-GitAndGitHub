@@ -1,0 +1,20 @@
+# --- Dados que representam uso de IA ---
+.claude/
+.superpowers/
+.gemini/
+CLAUDE.md
+GEMINI.md
+
+# --- Dado financeiro nunca e versionado ---
+*.xlsx
+*.xls
+*.csv
+
+# --- Arquivos temporarios ---
+tmp/
+output/
+
+# --- Saida do graphify -- derivada, reconstruivel a qualquer momento ---
+graphify-out/
+.graphifyignore
+.graphify/
